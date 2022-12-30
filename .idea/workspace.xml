@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4677bf01-e503-4107-8862-13022953255a" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/BuyItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/BuyItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/KakaoPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/KakaoPayService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/NaverPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/NaverPayService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/Pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/Pay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stratelgy/WechatPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/WechatPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX6.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +68,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-17",
+    "last_opened_file_path": "/Users/blake/Downloads/design-pattern-demo/FactoryPattern/case2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,14 +78,57 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FactoryPattern/case2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TemplateMethodPattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FactoryPattern.case2" />
       <recent name="Stratelgy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainGameTest">
+  <component name="RunManager" selected="애플리케이션.BmwBuilder">
+    <configuration name="BmwBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case2.BmwBuilder" />
+      <module name="design-pattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryPattern.case2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case1.CarMain" />
+      <module name="design-pattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryPattern.case1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case2.Customer" />
+      <module name="design-pattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryPattern.case2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HousingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TemplateMethodPattern.HousingMain" />
       <module name="design-pattern-demo" />
@@ -118,6 +157,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BmwBuilder" />
+        <item itemvalue="애플리케이션.Customer" />
+        <item itemvalue="애플리케이션.CarMain" />
         <item itemvalue="애플리케이션.MainGameTest" />
         <item itemvalue="애플리케이션.HousingMain" />
       </list>
@@ -131,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672361903586</updated>
-      <workItem from="1672361905196" duration="4796000" />
+      <workItem from="1672361905196" duration="5963000" />
     </task>
     <task id="LOCAL-00001" summary="- stratelgy 패턴 demo">
       <created>1672363510850</created>
@@ -147,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672363571259</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- template pattern demo">
+      <created>1672368053445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672368053445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- template pattern demo">
+      <created>1672368122469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672368122469</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +211,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- stratelgy 패턴 demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="- stratelgy 패턴 demo" />
+    <MESSAGE value="- template pattern demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="- template pattern demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
