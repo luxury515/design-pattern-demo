@@ -1,8 +1,6 @@
 package Stratelgy;
 
-import java.net.http.WebSocket;
-
-public class MainExcute {
+public class Main {
     public static void main(String[] args) {
         System.out.println("======지불 해보겠습니다!");
 
