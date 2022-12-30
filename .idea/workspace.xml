@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4677bf01-e503-4107-8862-13022953255a" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX6.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672361903586</updated>
-      <workItem from="1672361905196" duration="5963000" />
+      <workItem from="1672361905196" duration="8859000" />
     </task>
     <task id="LOCAL-00001" summary="- stratelgy 패턴 demo">
       <created>1672363510850</created>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672368122469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Factory pattern case1,case2 demo">
+      <created>1672369226497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672369226497</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- stratelgy 패턴 demo" />
     <MESSAGE value="- template pattern demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="- template pattern demo" />
+    <MESSAGE value="- Factory pattern case1,case2 demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Factory pattern case1,case2 demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
