@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4677bf01-e503-4107-8862-13022953255a" name="변경" comment="- stratelgy 패턴 demo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/BuyItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/KakaoPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/MainExcute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/NaverPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratelgy/WechatPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="4677bf01-e503-4107-8862-13022953255a" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/BuyItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/BuyItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/KakaoPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/KakaoPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/NaverPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/NaverPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/Pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/Pay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stratelgy/WechatPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/WechatPayService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +28,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1672363434" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1672363433" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="r9l9cybh" />
@@ -64,9 +82,46 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TemplateMethodPattern" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Stratelgy" />
     </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.MainGameTest">
+    <configuration name="HousingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplateMethodPattern.HousingMain" />
+      <module name="design-pattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemplateMethodPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplateMethodPattern.MainGameTest" />
+      <module name="design-pattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemplateMethodPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.MainGameTest" />
+        <item itemvalue="애플리케이션.HousingMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,8 +131,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672361903586</updated>
-      <workItem from="1672361905196" duration="1448000" />
+      <workItem from="1672361905196" duration="4796000" />
     </task>
+    <task id="LOCAL-00001" summary="- stratelgy 패턴 demo">
+      <created>1672363510850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672363510850</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- stratelgy 패턴 demo">
+      <created>1672363571259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672363571259</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +156,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- stratelgy 패턴 demo" />
     <option name="LAST_COMMIT_MESSAGE" value="- stratelgy 패턴 demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TemplateMethodPattern/피자템플릿.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

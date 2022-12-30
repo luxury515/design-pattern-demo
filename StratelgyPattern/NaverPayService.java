@@ -1,4 +1,4 @@
-package Stratelgy;
+package StratelgyPattern;
 
 public class NaverPayService implements Pay {
 
