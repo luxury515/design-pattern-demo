@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4677bf01-e503-4107-8862-13022953255a" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case1/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case1/Benz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case1/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case1/CarMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/Aircondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/AirconditionA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/AirconditionB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/BmwBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/EngineA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/EngineB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryPattern/case2/FactoryBMWX6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StratelgyPattern/KakaoPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StratelgyPattern/KakaoPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -60,22 +80,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-17",
-    "last_opened_file_path": "/Users/blake/Downloads/design-pattern-demo/FactoryPattern/case2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/blake/Downloads/design-pattern-demo/FactoryPattern/case2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FactoryPattern/case2" />
@@ -84,17 +106,18 @@
       <recent name="$PROJECT_DIR$/TemplateMethodPattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FactoryPattern.FactoryMethod" />
       <recent name="FactoryPattern.case2" />
       <recent name="Stratelgy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BmwBuilder">
-    <configuration name="BmwBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case2.BmwBuilder" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case1.CarMain" />
       <module name="design-pattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryPattern.case2.*" />
+          <option name="PATTERN" value="FactoryPattern.case1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryPattern.case1.CarMain" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.Client" />
       <module name="design-pattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryPattern.case1.*" />
+          <option name="PATTERN" value="FactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BmwBuilder" />
-        <item itemvalue="애플리케이션.Customer" />
-        <item itemvalue="애플리케이션.CarMain" />
-        <item itemvalue="애플리케이션.MainGameTest" />
-        <item itemvalue="애플리케이션.HousingMain" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MainGameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +193,12 @@
       <option name="presentableId" value="Default" />
       <updated>1672361903586</updated>
       <workItem from="1672361905196" duration="8859000" />
+      <workItem from="1672409886091" duration="1384000" />
+      <workItem from="1672411280669" duration="535000" />
+      <workItem from="1672411823627" duration="399000" />
+      <workItem from="1672412238062" duration="814000" />
+      <workItem from="1672413240609" duration="1631000" />
+      <workItem from="1672496904922" duration="1871000" />
     </task>
     <task id="LOCAL-00001" summary="- stratelgy 패턴 demo">
       <created>1672363510850</created>
@@ -209,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672369226497</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- Factory pattern case1,case2 demo">
+      <created>1672409951758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672409951758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
